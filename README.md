@@ -6,12 +6,12 @@ Overview
 The YouTube Gesture Controller is an innovative computer vision project that enables users to control YouTube playback with intuitive hand gestures using a webcam. This hands-free interface enhances accessibility and offers a futuristic way to interact with media.
 
 Features
-Play/Pause with open or closed palm.
-Next/Previous video by swiping hand right or left.
-Volume Control using vertical hand motion.
-Seek Video by horizontal hand movement.
-Real-time gesture recognition using a webcam.
-Integrates directly with YouTube through browser automation.
+1. Play/Pause with open or closed palm.
+2. Next/Previous video by swiping hand right or left.
+3. Volume Control using vertical hand motion.
+4. Seek Video by horizontal hand movement.
+5. Real-time gesture recognition using a webcam.
+6. Integrates directly with YouTube through browser automation.
 
 Tech Stack
 Python
