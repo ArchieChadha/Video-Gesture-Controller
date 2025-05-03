@@ -12,8 +12,8 @@ Volume Control using vertical hand motion.
 Seek Video by horizontal hand movement.
 Real-time gesture recognition using a webcam.
 Integrates directly with YouTube through browser automation.
-Tech Stack
 
+Tech Stack
 Python
 OpenCV – for real-time video capture and image processing
 Mediapipe – for accurate hand gesture detection
